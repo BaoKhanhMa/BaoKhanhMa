@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm Khanh
 
 💻 High Performance Computing | Parallel Programming | Scientific Computing  
 
@@ -17,7 +17,7 @@
 ## 🧰 Tech Stack
 
 ### Languages
-- C / C++ / Fortran
+- C / C++ ![C](https://img.shields.io/badge/C-blue?logo=c)
 - Python
 - CUDA / HIP
 
