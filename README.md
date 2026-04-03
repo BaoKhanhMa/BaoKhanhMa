@@ -1,4 +1,4 @@
-# Hello world 😄 I'm Khanh
+# Hello world, I'm Khanh 😄
 
 ## 🚀 About Me
 ---
