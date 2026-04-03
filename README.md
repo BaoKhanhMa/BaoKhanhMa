@@ -1,10 +1,8 @@
 # Hello world, I'm Khanh 😄
 
 ## 🚀 About Me
----
 - 🔬 I work on **HPC, Scientific Computing, and Parallel Programming**
 - ⚡ Interested in **Physics Simulation, Graphics, Performance Optimization, and Game Development**
----
 ### Tools
 - ![C/C++](https://img.shields.io/badge/C%2FC++-blue?logo=c%2B%2B)
 - ![Python](https://img.shields.io/badge/Python-green?logo=python)
@@ -14,7 +12,6 @@
 ### System
 - ![Linux](https://img.shields.io/badge/Linux-gray?logo=linux)
 - ![SLURM](https://img.shields.io/badge/Slurm-blue)
----
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
