@@ -17,9 +17,12 @@
 ## 🧰 Tech Stack
 
 ### Languages
-- C / C++ ![C](https://img.shields.io/badge/C-blue?logo=c)
-- Python
-- CUDA / HIP
+- ![C](https://img.shields.io/badge/C-blue?logo=c)
+- ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
+- ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+- ![OpenMP](https://img.shields.io/badge/OpenMP-green)
+- ![MPI](https://img.shields.io/badge/MPI-orange)
+- ![CUDA](https://img.shields.io/badge/CUDA-black?logo=nvidia)
 
 ### HPC & Parallel Computing
 - MPI (OpenMPI / MPICH)
