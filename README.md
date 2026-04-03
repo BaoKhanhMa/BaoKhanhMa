@@ -22,7 +22,7 @@
 - ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 - ![OpenMP](https://img.shields.io/badge/OpenMP-green)
 - ![MPI](https://img.shields.io/badge/MPI-orange)
-- ![CUDA](https://img.shields.io/badge/CUDA-black?logo=nvidia)
+- ![CUDA](https://img.shields.io/badge/CUDA-red?logo=nvidia)
 
 ### HPC & Parallel Computing
 - MPI (OpenMPI / MPICH)
