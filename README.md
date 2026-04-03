@@ -17,7 +17,7 @@
 - ![CUDA](https://img.shields.io/badge/CUDA-gray?logo=nvidia)
 
 ### System
-- ![Linux](https://img.shields.io/badge/Linux-white?logo=linux)
+- ![Linux](https://img.shields.io/badge/Linux-gray?logo=linux)
 - ![SLURM](https://img.shields.io/badge/Slurm-blue)
 
 ---
