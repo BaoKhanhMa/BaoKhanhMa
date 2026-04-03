@@ -1,2 +1,97 @@
-# Profile
-This is my profile presentation to everybody
+# Hi there 👋 I'm [Your Name]
+
+💻 High Performance Computing | Parallel Programming | Scientific Computing  
+
+---
+
+## 🚀 About Me
+
+- 🔬 Working on **HPC, distributed systems, and large-scale simulations**
+- ⚡ Interested in **MPI, OpenMP, CUDA, and performance optimization**
+- 🧠 Exploring **scalable algorithms and numerical methods**
+- 🖥️ Regularly working on **clusters and supercomputers**
+- 📊 Passionate about **benchmarking and profiling code**
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+- C / C++ / Fortran
+- Python
+- CUDA / HIP
+
+### HPC & Parallel Computing
+- MPI (OpenMPI / MPICH)
+- OpenMP
+- CUDA / GPU computing
+- Distributed systems
+
+### Tools & Ecosystem
+- Slurm / PBS
+- CMake / Make
+- Docker / Apptainer (Singularity)
+- Git / Linux
+
+---
+
+## ⚙️ What I Work On
+
+- 🧪 Scientific simulations
+- 📈 Performance optimization & scaling
+- 🔁 Parallel algorithms
+- 🧬 Computational science workflows
+- 📦 Reproducible HPC environments
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🖥️ HPC Experience
+
+- 🧠 Worked on clusters with **[Slurm / PBS / LSF]**
+- ⚡ Optimized workloads across **N nodes / GPUs**
+- 📊 Familiar with profiling tools:
+  - Nsight Systems
+  - VTune
+  - perf / gprof
+  - mpiP
+
+---
+
+## 📂 Featured Projects
+
+- 🔹 [Project Name](https://github.com/YOUR_USERNAME/project)
+  - Parallel implementation using MPI/OpenMP
+- 🔹 [Project Name](https://github.com/YOUR_USERNAME/project)
+  - GPU-accelerated computation (CUDA)
+- 🔹 [Project Name](https://github.com/YOUR_USERNAME/project)
+  - Benchmarking & scaling study
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced GPU optimization
+- Hybrid parallelism (MPI + OpenMP + CUDA)
+- Exascale computing concepts
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: [your-link]
+- Website: [your-site]
+- Email: [your-email]
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy making code run faster more than writing new code 🚀
