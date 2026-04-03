@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🔬 I work on **HPC, Scientific Computing, and Parallel Programming**
-- ⚡ Interested in **Physics Simulation, Graphics, Performance Optimization, and Game Development**
+- ⚡ Interested in **Physics Simulation, Computer Graphics, and Performance Optimization**
 ### Tools
 - ![C/C++](https://img.shields.io/badge/C%2FC++-blue?logo=c%2B%2B)
 - ![Python](https://img.shields.io/badge/Python-green?logo=python)
