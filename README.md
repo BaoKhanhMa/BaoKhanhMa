@@ -13,9 +13,10 @@
 
 ### Languages
 - ![C/C++](https://img.shields.io/badge/C%2FC++-blue?logo=c%2B%2B)
+- ![Python](https://img.shields.io/badge/Python-green?logo=python)
 - ![OpenMP](https://img.shields.io/badge/OpenMP-red)
 - ![MPI](https://img.shields.io/badge/MPI-blue)
-- ![CUDA](https://img.shields.io/badge/CUDA-white?logo=nvidia)
+- ![CUDA](https://img.shields.io/badge/CUDA-gray?logo=nvidia)
 
 ### HPC & Parallel Computing
 - MPI (OpenMPI / MPICH)
