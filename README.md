@@ -17,8 +17,7 @@
 ## 🧰 Tech Stack
 
 ### Languages
-- ![C](https://img.shields.io/badge/C-blue?logo=c)
-- ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
+- ![C/C++](https://img.shields.io/badge/C-blue?logo=c,https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
 - ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 - ![OpenMP](https://img.shields.io/badge/OpenMP-green)
 - ![MPI](https://img.shields.io/badge/MPI-orange)
