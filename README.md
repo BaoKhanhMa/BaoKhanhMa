@@ -9,26 +9,16 @@
 
 ---
 
-## 🧰 Tech Stack
-
-### Languages
+### Tools
 - ![C/C++](https://img.shields.io/badge/C%2FC++-blue?logo=c%2B%2B)
 - ![Python](https://img.shields.io/badge/Python-green?logo=python)
 - ![OpenMP](https://img.shields.io/badge/OpenMP-red)
 - ![MPI](https://img.shields.io/badge/MPI-blue)
 - ![CUDA](https://img.shields.io/badge/CUDA-gray?logo=nvidia)
 
-### HPC & Parallel Computing
-- MPI (OpenMPI / MPICH)
-- OpenMP
-- CUDA / GPU computing
-- Distributed systems
-
-### Tools & Ecosystem
-- Slurm / PBS
-- CMake / Make
-- Docker / Apptainer (Singularity)
-- Git / Linux
+### System
+- ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+- ![Slurm](https://img.shields.io/badge/Slurm-blue)
 
 ---
 
