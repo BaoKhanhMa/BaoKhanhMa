@@ -12,11 +12,10 @@
 ## 🧰 Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-blue?logo=c)
-![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
-- ![OpenMP](https://img.shields.io/badge/OpenMP-green)
-- ![MPI](https://img.shields.io/badge/MPI-orange)
-- ![CUDA](https://img.shields.io/badge/CUDA-red?logo=nvidia)
+- ![C/C++](https://img.shields.io/badge/C%2FC++-blue?logo=c%2B%2B)
+- ![OpenMP](https://img.shields.io/badge/OpenMP-red)
+- ![MPI](https://img.shields.io/badge/MPI-blue)
+- ![CUDA](https://img.shields.io/badge/CUDA-white?logo=nvidia)
 
 ### HPC & Parallel Computing
 - MPI (OpenMPI / MPICH)
