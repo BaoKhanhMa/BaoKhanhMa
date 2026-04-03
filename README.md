@@ -1,16 +1,11 @@
 # Hi there 👋 I'm Khanh
 
-💻 High Performance Computing | Parallel Programming | Scientific Computing  
-
 ---
 
 ## 🚀 About Me
 
-- 🔬 Working on **HPC, distributed systems, and large-scale simulations**
-- ⚡ Interested in **MPI, OpenMP, CUDA, and performance optimization**
-- 🧠 Exploring **scalable algorithms and numerical methods**
-- 🖥️ Regularly working on **clusters and supercomputers**
-- 📊 Passionate about **benchmarking and profiling code**
+- 🔬 I work on **HPC, Scientific Computing, and Parallel Programming**
+- ⚡ Interested in **Physics Simulation, Graphics, Performance Optimization, and Game Development**
 
 ---
 
