@@ -1,4 +1,3 @@
-# Hello world, I'm Khanh 😄
 <img width="1000" height="333" alt="pawel-czerwinski-XSUTi5soZD0-unsplash" src="https://github.com/user-attachments/assets/29216f58-109b-453f-a739-1c86463b2931" />
 
 ## 🚀 About Me
