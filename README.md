@@ -4,13 +4,14 @@
 - 🔬 I work on **HPC, Scientific Computing, and Parallel Programming**
 - ⚡ Interested in **Physics Simulation, Computer Graphics, and Performance Optimization**
 ## 🛠 Tech Stacks
+![OpenMP](https://img.shields.io/badge/OpenMP-DC143C?style=for-the-badge)
+![OpenMPI](https://img.shields.io/badge/OpenMPI-FFD700?style=for-the-badge&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4B4B4B?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![OpenMP](https://img.shields.io/badge/OpenMP-DC143C?style=for-the-badge)
-![OpenMPI](https://img.shields.io/badge/OpenMPI-FFD700?style=for-the-badge&logoColor=black)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## 💻 Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
