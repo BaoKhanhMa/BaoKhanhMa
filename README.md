@@ -3,19 +3,13 @@
 ## 🚀 About Me
 - 🔬 I work on **HPC, Scientific Computing, and Parallel Programming**
 - ⚡ Interested in **Physics Simulation, Computer Graphics, and Performance Optimization**
-### Tools
-- ![C/C++](https://img.shields.io/badge/C%2FC++-blue?logo=c%2B%2B)
-- ![Python](https://img.shields.io/badge/Python-green?logo=python)
-- ![OpenMP](https://img.shields.io/badge/OpenMP-red)
-- ![MPI](https://img.shields.io/badge/MPI-blue)
-- ![CUDA](https://img.shields.io/badge/CUDA-gray?logo=nvidia)
-### System
-- ![Linux](https://img.shields.io/badge/Linux-gray?logo=linux)
-- ![SLURM](https://img.shields.io/badge/Slurm-blue)
+## 🛠 Tech Stacks
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-000000?style=for-the-badge)
+![MPI](https://img.shields.io/badge/MPI-004E89?style=for-the-badge)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-</p>
+## 💻 Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Slurm](https://img.shields.io/badge/Slurm-1E88E5?style=for-the-badge)
