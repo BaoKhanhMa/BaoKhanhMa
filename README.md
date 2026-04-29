@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🔬 I work on **HPC, Scientific Computing, and Parallel Programming**
-- ⚡ I am very interested in **Physics Simulation, Computer Graphics, and Performance Optimization**
+- ⚡ I am very interested in **Physics Simulation, Computer Graphics, and Performance Optimizationgjhg**
 ## 🛠 Tech Stacks
 <p align="center">
   <img src="https://img.shields.io/badge/OpenMP-DC143C?style=for-the-badge" />
